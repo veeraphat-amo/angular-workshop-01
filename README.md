@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+# angular-workshop-01
+>>>>>>> 21cb96c880166040468e26f09effe85846ff4606
 # Hello
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.3.
